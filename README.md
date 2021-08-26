@@ -1,2 +1,2 @@
 # Demo
-Implement some algorithm from scratch
+Implement some algorithms from scratch
